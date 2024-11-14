@@ -1,0 +1,51 @@
+
+
+Topics 
+
+Basics 
+-js intro and history
+-variables (let var const)
+-ram , memory mgmt
+-conditionals (if else else if , switch, ternary)
+-loops(for while do while foreach for of for in)
+-function(es6 es6 return )
+-array (inbuilt methods)
+-deep and shallow copy
+-object
+-object cloning
+-rest and spread operator
+-string
+-dynamic Object 
+--function constructor
+-map filter reduce
+-this and new keyword
+-instanceof 
+-Async js 
+-Async js intro
+-callbacks
+-issues with callbacks
+-promises
+-resolve reject
+-promise chaining 
+-Async await
+-fetch api
+-axios
+-oops
+-class keyword
+-inheritance
+-method overloading
+-method overriding
+-property overriding
+-super constructor
+-super keyword
+
+
+-super advance topics 
+-protypes
+-prototypal inheritance
+-polyfills
+-custom polyfills
+-localstorage
+-module import export 
+
+-------------------------------------------------
